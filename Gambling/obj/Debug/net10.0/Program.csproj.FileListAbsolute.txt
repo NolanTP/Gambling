@@ -1,0 +1,14 @@
+D:\telechargement\Gambling\Gambling\bin\Debug\net10.0\Program.exe
+D:\telechargement\Gambling\Gambling\bin\Debug\net10.0\Program.deps.json
+D:\telechargement\Gambling\Gambling\bin\Debug\net10.0\Program.runtimeconfig.json
+D:\telechargement\Gambling\Gambling\bin\Debug\net10.0\Program.dll
+D:\telechargement\Gambling\Gambling\bin\Debug\net10.0\Program.pdb
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\Program.AssemblyInfoInputs.cache
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\Program.AssemblyInfo.cs
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\Program.csproj.CoreCompileInputs.cache
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\Program.dll
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\refint\Program.dll
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\Program.pdb
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\Program.genruntimeconfig.cache
+D:\telechargement\Gambling\Gambling\obj\Debug\net10.0\ref\Program.dll

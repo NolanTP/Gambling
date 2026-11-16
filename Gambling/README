@@ -1,0 +1,29 @@
+
+CONCEPTION 
+
+Objectif : Permettre de jouer a plusieurs jeu de casino comme le blackjack. Et de cree des profils et sauvegarder des parties.
+
+Listes des jeux supportes :
+-blackjack
+-blackjack au de ✅
+-poker
+-baccara
+-craps
+-roulette
+-machine a sous
+
+Partie blackjack :
+    -inscrire le score a viser
+    -inscrire tous les participants
+    -save le score global de chaque joueur
+    -save le classement final avec score a la fin de la partie
+
+Base de donnees :
+    Un joueur possede une sauvegarde de plusieurs parties
+
+        Joueur                 Sauvegarde                SauvegarderPartie                Partie                            Participatio
+    -id                    -id                       -id_sauvegarde                   -id                                -id
+    -pseudo               -id_joueur                 -id_partie                       -date_partie                       -id_partie
+                          -date_sauvegarde                                                                               -score
+                          -nom                                                                                           -classement
+                                                                                   
